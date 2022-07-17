@@ -1,0 +1,11 @@
+Hepcare (Hepatitis Care):
+
+cara pakai:
+- import database diasnetdb.sql ke server (XAMPP / WAMP)
+- sistem pakar ada di bagian "TES"
+- masuk pakai user dan password yg sudah ada:
+	- id:hendras pass:pass
+	- id:jimi pass:pass2
+	- id:wili pass:pass3
+	- id:mike pass:pass4
+- thankyu
